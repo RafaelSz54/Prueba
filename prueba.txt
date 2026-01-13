@@ -4,3 +4,5 @@ print("Hola Mundo")
 =======
 print("Hello World")
 >>>>>>> parent of cf3ba9d (Update prueba.txt)
+prueba
+1234
