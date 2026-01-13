@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print("Hello World 123")
 print("Hola Mundo")
+=======
+print("Hello World")
+>>>>>>> parent of cf3ba9d (Update prueba.txt)
